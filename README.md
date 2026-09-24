@@ -2,13 +2,13 @@
 
 ## Video Game Sales and Ratings Analysis
 
-**Assigned** : Thursday 24th September 2026 
+**Assigned** : Thursday 24th September 2026
 
 *Note: This is a two week lab assignment*
 
-**Due** : Thursday 8th September 2026
+**Due** : Thursday 8th October 2026
 
-**Lab Expiration Date** : Thursday 15th September 2026
+**Lab Expiration Date** : Thursday 15th October 2026
 
 ![logo](graphics/controllers_i.png)
 
@@ -54,7 +54,7 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 
 ![--- --- --- --- --- --- --- --- ---](graphics/div_bar.png)
 
-## Assignment Deliverables
+## Assignment Deliverables and What To Do
 
 After cloning your working repository to your local machine, please complete the tasks in the code where there is a `todo` tag. Remove the tag after completing the task.
 
