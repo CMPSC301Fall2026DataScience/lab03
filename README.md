@@ -4,9 +4,9 @@
 
 **Assigned** : Thursday 24th September 2026
 
-*Note: This is a two week lab assignment*
+Note: *This is a three week lab assignment which is due on its expiration date due to fall break on the 8th - 11th October 2026.*
 
-**Due** : Thursday 8th October 2026
+**Due** : Thursday 15th October 2026
 
 **Lab Expiration Date** : Thursday 15th October 2026
 
